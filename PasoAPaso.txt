@@ -42,3 +42,12 @@
 19. Estilos a los testimoniales
 
 20. Crear el footer y darle estilos
+
+21. Subir a repositorio: git init
+                         git remote add origin https://github.com/Manuelowsky/WebParaInmobiliaria-Bootstrap-
+                         git status 
+                         git add .
+                         git commit -m "Se agregaron las rutas y archivos de configuracion"
+                         git push origin master
+
+22. Deployment del proyecto en netifly                         

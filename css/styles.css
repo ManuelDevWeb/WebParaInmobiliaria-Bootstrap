@@ -81,6 +81,11 @@ h4 {
     font-weight: 700;
 }
 
+.slider img {
+    /*Toma alto y ancho que hay disponible para la imagen*/
+    height: 100vh;
+}
+
 
 /*Sección Nosotros*/
 
